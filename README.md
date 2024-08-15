@@ -1,4 +1,6 @@
 This project makes use of React-Native.
-Start an Android Emulator.
-On the Terminal, run npm start.
-Select 'a' for Android.
+
+Steps to RUN:
+1) Start an Android Emulator.
+2) On the Terminal, run npm start.
+3) Select 'a' for Android.
